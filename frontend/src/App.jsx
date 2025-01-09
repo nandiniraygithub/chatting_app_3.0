@@ -3,7 +3,7 @@ import Navbar from "./components/Navbar";
 import HomePage from "./pages/HomePage.jsx";
 import SignUpPage from "./pages/SignupPage.jsx"; // Correct path relative to App.jsx
 import LoginPage from "./pages/LoginPage.jsx";
-import SettingsPage from "./pages/settingsPage.jsx";
+import SettingsPage from "./pages/SettingsPage.jsx";
 import ProfilePage from "./pages/ProfilePage.jsx";
 
 import { Routes, Route, Navigate } from "react-router-dom";
