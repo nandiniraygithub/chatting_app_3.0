@@ -1,7 +1,7 @@
 import Navbar from "./components/Navbar";
 
 import HomePage from "./pages/HomePage.jsx";
-import SignUpPage from "./pages/SignUpPage.jsx"; // Correct path relative to App.jsx
+import SignUpPage from "./pages/SignupPage.jsx"; // Correct path relative to App.jsx
 import LoginPage from "./pages/LoginPage.jsx";
 import SettingsPage from "./pages/settingsPage.jsx";
 import ProfilePage from "./pages/ProfilePage.jsx";
