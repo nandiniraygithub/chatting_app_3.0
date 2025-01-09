@@ -82,6 +82,3 @@ Let me know if you want to refine this further! 😊
 ## 📄 License  
 This project is licensed under the MIT License.  
 
----
-
-Feel free to update the text with your actual repository link, deployment URL, and screenshots! 😊
