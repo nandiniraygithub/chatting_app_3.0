@@ -14,8 +14,8 @@ A real-time chat application built with the MERN stack, Socket.io, TailwindCSS, 
 - 🐞 **Error Handling**: Robust error management on both the server and client sides.  
 
 ## 🌐 Live Demo  
-👉 [Chat Application Live Demo](#)  
-*(Replace `#` with your deployed application URL, e.g., Vercel, Netlify, or Heroku)*  
+👉 [Chat Application Live Demo](https://chatting-app-3-0.onrender.com/)  
+  
 
 ## 🛠️ Tech Stack  
 - **Frontend**: React, TailwindCSS, Daisy UI, Zustand  
@@ -58,7 +58,26 @@ A real-time chat application built with the MERN stack, Socket.io, TailwindCSS, 
    ```  
 
 ## 🖼️ Screenshots  
-*(Add screenshots or a GIF of your app in action)*  
+![image](https://github.com/user-attachments/assets/1cf769bd-95f7-4a04-9af6-37accd217ff6)
+Here’s an updated **README** section that includes the sample login credentials:  
+
+---
+
+## 🔑 Sample Login Credentials  
+
+You can use the following sample accounts to test the application:  
+
+| Email           | Password  |  
+|------------------|-----------|  
+| sita@gmail.com   | 123456    |  
+| ram@gmail.com    | 123456    |  
+
+*(These are sample credentials for demonstration purposes only. Update or remove them in production environments.)*  
+
+---
+
+Let me know if you want to refine this further! 😊
+ 
 
 ## 📄 License  
 This project is licensed under the MIT License.  
